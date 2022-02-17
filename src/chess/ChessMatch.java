@@ -8,7 +8,7 @@ public class ChessMatch {
 
 	private Board board;
 	
-	//comentario irrelevante
+	
 	public ChessMatch() {
 		board = new Board(8, 8);
 		initialSetup();
