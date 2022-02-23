@@ -361,8 +361,6 @@ public class ChessMatch {
         placeNewPiece('f', 7, new Pawn(board, Color.BLACK, this));
         placeNewPiece('g', 7, new Pawn(board, Color.BLACK, this));
         placeNewPiece('h', 7, new Pawn(board, Color.BLACK, this));
-        
-        //promotion
 
 	}
 }
