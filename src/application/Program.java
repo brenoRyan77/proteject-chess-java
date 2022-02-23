@@ -45,6 +45,7 @@ public class Program {
 					System.out.print("Enter piece for promotion (B/N/R/Q)");
 					String type = sc.nextLine();
 					chessMatch.replacePromotedPiece(type);
+					//changed
 				}
 			}
 			catch (ChessException e) {
