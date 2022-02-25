@@ -1,7 +1,7 @@
-# 👷🏻 O Projeto</h1>
+# 👷🏻 O Projeto
 Esse é um projeto desenvolvido e ministrado pela DevSuperior com o professor Nélio Alves da trilha Srping Java Programação Completa Orientada a Objetos.O programa é um jogo de Xadrez com todas funcionalidades de uma partida real.
 
-# 🤳🏻 <h1>Funcionalidades gerais</h1>
+# 🤳🏻 Funcionalidades gerais
 - Imprementado o movimento especial En Passant
 - Movimento especial Promotion
 - Movimento especial Rook
