@@ -4,9 +4,10 @@
 Esse é um projeto desenvolvido e ministrado pela DevSuperior com o professor Nélio Alves da trilha Java Programação Completa Orientada a Objetos.O programa é um jogo de Xadrez com todas funcionalidades de uma partida real.
 
 # 🤳🏻 Funcionalidades gerais
-- Imprementado o movimento especial En Passant
-- Movimento especial Promotion
-- Movimento especial Rook
+- Partida Multiplayer
+- Jogadas especiais
+- Lógicas de Check
+- Ver preview das possíveis posições disponíveis no tabuleiro
 
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
